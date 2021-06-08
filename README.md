@@ -26,8 +26,12 @@ Python code to help an Algorand (ALGO) crypto wallet holder fix a private key ph
 
  3) KNOW YOUR WALLET PUBLIC ADDRESS!
      you should have this if you sent any coins to the wallet -- look
-     at your outgoing transactions from the source where you sent from
+     at your outgoing transactions from the source where you sent from.
+     you will need to enter this into the appropriate hardcoded
+     variable in the script.
 
  4) HAVE YOUR PHRASE LIST OF AT LEAST 24 of 25 WORDS, WHICH YOU BELIEVE HAS AN ISSUE!
      and the issue needs to be relatively simple: either a single spelling
-     error, a single missing word, or a single pair of swapped phrase words
+     error, a single missing word, or a single pair of swapped phrase words.
+     you will need to enter this into the appropriate hardcoded
+     variable in the script.
