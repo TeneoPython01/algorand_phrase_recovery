@@ -35,3 +35,9 @@ Python code to help an Algorand (ALGO) crypto wallet holder fix a private key ph
      error, a single missing word, or a single pair of swapped phrase words.
      you will need to enter this into the appropriate hardcoded
      variable in the script.
+
+
+ THIS SCRIPT CAN:
+
+ 1) fix a single swapped pair (all other words must be spelled correctly and in the correct positions
+ 2) fix a single misspelled word or a single missing word (all other words must be spelled correctly and in the correct positions)
