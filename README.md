@@ -8,7 +8,9 @@ Python code to help an Algorand (ALGO) crypto wallet holder fix a private key ph
  I wasn't able to access my wallet the next day.  I figured that I had
  either mistyped a phrase word or swapped word positions on accident.
  so, I wrote this script to try to recover my wallet.  it worked
- and recovered my wallet for me.
+ and recovered my wallet for me (when I wrote down the words, I
+ had switched the positions of two of them -- but i thought I had
+ maybe misspelled one of them instead.  this script fixed the issue.)
 
 
  TO USE THIS SCRIPT, YOU MUST:
