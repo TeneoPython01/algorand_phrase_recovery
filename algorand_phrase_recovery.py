@@ -82,7 +82,7 @@ def compare_output_to_known_pub_key(known_public_key, phrase_string):
     if err == 0:
         if derived_public_key == known_public_key:
             #this message only displays if correct phrase words are determined
-            print('\n', '!!! MATCH !!!', '\n\n', 'CORRECT PHRASE WORDS:\n', phrase, '\n\n', '!!!!!!!!!!!!!')
+            print('\n', '!!! MATCH !!!', '\n\n', 'CORRECT PHRASE WORDS:\n', phrase_string, '\n\n', '!!!!!!!!!!!!!')
             return 1
         else:
             print('x', error_text)
